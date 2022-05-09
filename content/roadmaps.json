@@ -1,17 +1,17 @@
 [
   {
     "seo": {
-      "title": "东山PI 壹号开发板学习路线整理描述。",
-      "description": "东山PI 壹号开发板学习路线整理描述。",
+      "title": "Frontend Developer Roadmap: Learn to become a modern frontend developer",
+      "description": "Learn to become a modern frontend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern frontend development.",
       "keywords": [
         "javascript roadmap 2022",
         "frontend developer interview questions"
       ]
     },
-    "title": "DshanPI1 开发",
-    "description": "东山PI 壹号开发板学习路线整理描述。",
-    "featuredTitle": "DshanPI1",
-    "featuredDescription": "东山PI 壹号开发板学习路线整理描述。",
+    "title": "DshanPI1开发",
+    "description": "Step by step guide to becoming a modern frontend developer in 2022",
+    "featuredTitle": "dshanpi1",
+    "featuredDescription": "Step by step guide to becoming a frontend developer in 2022",
     "author": {
       "name": "Kamran Ahmed",
       "url": "https://twitter.com/kamranahmedse"
@@ -22,23 +22,23 @@
     "resourcesPath": "/roadmaps/101-dshanpi1/resources.md",
     "pdfUrl": "https://kamranahmedse.gumroad.com/l/frontend-roadmap",
     "contentPathsFilePath": "/roadmaps/101-dshanpi1/content-paths.json",
-    "id": "DshanPI1",
+    "id": "dshanpi1",
     "metaPath": "/roadmaps/101-dshanpi1/meta.json",
     "isUpcoming": false
   },
   {
     "seo": {
-      "title": "东山PI 柒号开发板学习路线整理描述。",
-      "description": "东山PI 柒号开发板学习路线整理描述。",
+      "title": "Frontend Developer Roadmap: Learn to become a modern frontend developer",
+      "description": "Learn to become a modern frontend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern frontend development.",
       "keywords": [
         "javascript roadmap 2022",
         "frontend developer interview questions"
       ]
     },
     "title": "DshanPI7 开发",
-    "description": "东山PI 壹号开发板学习路线整理描述。",
-    "featuredTitle": "DshanPI7",
-    "featuredDescription": "东山PI 壹号开发板学习路线整理描述。",
+    "description": "Step by step guide to becoming a modern frontend developer in 2022",
+    "featuredTitle": "dshanpi1",
+    "featuredDescription": "Step by step guide to becoming a frontend developer in 2022",
     "author": {
       "name": "Kamran Ahmed",
       "url": "https://twitter.com/kamranahmedse"
@@ -49,34 +49,34 @@
     "resourcesPath": "/roadmaps/102-dshanpi7/resources.md",
     "pdfUrl": "https://kamranahmedse.gumroad.com/l/frontend-roadmap",
     "contentPathsFilePath": "/roadmaps/102-dshanpi7/content-paths.json",
-    "id": "DshanPI7",
-    "metaPath": "/roadmaps/101-dshanpi7/meta.json",
+    "id": "dshanpi7",
+    "metaPath": "/roadmaps/102-dshanpi7/meta.json",
     "isUpcoming": false
   },
   {
     "seo": {
-      "title": "东山哪吒 开发板学习路线整理描述。",
-      "description": "东山哪吒 开发板学习路线整理描述。",
+      "title": "Frontend Developer Roadmap: Learn to become a modern frontend developer",
+      "description": "Learn to become a modern frontend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern frontend development.",
       "keywords": [
         "javascript roadmap 2022",
         "frontend developer interview questions"
       ]
     },
-    "title": "DshanNezha 开发",
-    "description": "东山PI 壹号开发板学习路线整理描述。",
-    "featuredTitle": "DshanNezha",
-    "featuredDescription": "东山PI 壹号开发板学习路线整理描述。",
+    "title": "DshanPI1开发",
+    "description": "Step by step guide to becoming a modern frontend developer in 2022",
+    "featuredTitle": "dshanpi1",
+    "featuredDescription": "Step by step guide to becoming a frontend developer in 2022",
     "author": {
       "name": "Kamran Ahmed",
       "url": "https://twitter.com/kamranahmedse"
     },
     "featured": true,
-    "imageUrl": "/roadmaps/DshanNezha.png",
-    "jsonUrl": "/project/DshanNezha.json",
+    "imageUrl": "/roadmaps/dshanpi1.png",
+    "jsonUrl": "/project/dshanpi1.json",
     "resourcesPath": "/roadmaps/103-dshannezha/resources.md",
     "pdfUrl": "https://kamranahmedse.gumroad.com/l/frontend-roadmap",
     "contentPathsFilePath": "/roadmaps/103-dshannezha/content-paths.json",
-    "id": "DshanPI1",
+    "id": "dshannezha",
     "metaPath": "/roadmaps/103-dshannezha/meta.json",
     "isUpcoming": false
   }

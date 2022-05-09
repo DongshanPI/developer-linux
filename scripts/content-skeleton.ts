@@ -37,6 +37,7 @@ type RoadmapType = {
 const roadmaps: Record<string, RoadmapType> = {
   frontend: require('../public/project/frontend.json'),
   dshanpi1: require('../public/project/dshanpi1.json'),
+  dshanpi7: require('../public/project/dshanpi7.json'),
   backend: require('../public/project/backend.json'),
   devops: require('../public/project/devops.json'),
   android: require('../public/project/android.json'),

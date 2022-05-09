@@ -42,5 +42,5 @@ export function getFeaturedRoadmaps(): RoadmapType[] {
 }
 
 export function isInteractiveRoadmap(id: string): boolean {
-  return ['frontend', 'backend'].includes(id);
+  return ['dongshanpi7', 'dshanpi1'].includes(id);
 }

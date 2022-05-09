@@ -114,15 +114,13 @@ export function InteractiveRoadmapRenderer(props: RoadmapProps) {
   }
 
   let minHeight: string[] = [];
-  if (roadmap.id === 'frontend') {
-    minHeight = ['970px', '970px', '2100px', '2800px', '2800px'];
-  }
 
   if (roadmap.id === 'dshanpi1') {
     minHeight = ['970px', '970px', '2100px', '2800px', '2800px'];
   }
-  if (roadmap.id === 'backend') {
-    minHeight = ['870px', '1130px', '1900px', '2500px', '2520px', '2520px'];
+
+  if (roadmap.id === 'dshanpi7') {
+    minHeight = ['970px', '970px', '2100px', '2800px', '2800px'];
   }
 
   return (
