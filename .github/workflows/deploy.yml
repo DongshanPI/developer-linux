@@ -3,8 +3,7 @@ on:
   push:
     branches: [ master ]
 env:
-  ROADMAP_GA_SECRET: ${{ secrets.GA_SECRET }}
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.GIT_LINUX }}
   CI: true
   NEXT_TELEMETRY_DISABLED: 1
 jobs:
@@ -24,7 +23,7 @@ jobs:
         npm run build
     - name: Deploy to GH Pages
       run: |
-        git config user.email "kamranahmed.se@gmail.com"
-        git config user.name "Kamran Ahmed"
-        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        git config user.email "pfp@live.com"
+        git config user.name "Dongshanpi"
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/DongshanPI/developer-linux.git
         npm run deploy
