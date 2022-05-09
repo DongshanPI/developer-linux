@@ -49,31 +49,9 @@ export default function Home(props: HomeProps) {
             </Heading>
             <Text fontSize={['14px', '14px', '16px']} mb="10px">
               <Text fontWeight={500} as="span">
-                roadmap.sh
+                Dongshanpi
               </Text>{' '}
-              is a community effort to create roadmaps, guides and other
-              educational content to help guide the developers in picking up the
-              path and guide their learnings.
-            </Text>
-
-            <Text fontSize={['14px', '14px', '16px']}>
-              We also have a{' '}
-              <Link
-                textDecoration={'underline'}
-                href={siteConfig.url.youtube}
-                onClick={() =>
-                  event({
-                    category: 'Subscription',
-                    action: 'Clicked the YouTube link',
-                    label: 'YouTube link on home',
-                  })
-                }
-                target="_blank"
-                fontWeight={600}
-              >
-                YouTube channel
-              </Link>{' '}
-              which we hope you are going to love.
+              是一个专门用于整理嵌入式Linux开发学习路线的汇总网站。
             </Text>
           </Box>
           <SimpleGrid columns={[1, 2, 3]} spacing={['10px', '10px', '15px']}>
